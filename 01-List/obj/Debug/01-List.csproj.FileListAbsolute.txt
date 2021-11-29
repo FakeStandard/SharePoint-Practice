@@ -9,3 +9,4 @@ D:\2.Project\SideProject\SharePoint-Practice\01-List\obj\Debug\01-List.csproj.Co
 D:\2.Project\SideProject\SharePoint-Practice\01-List\obj\Debug\01-List.csproj.CopyComplete
 D:\2.Project\SideProject\SharePoint-Practice\01-List\obj\Debug\01-List.exe
 D:\2.Project\SideProject\SharePoint-Practice\01-List\obj\Debug\01-List.pdb
+D:\2.Project\SideProject\SharePoint-Practice\01-List\obj\Debug\01-List.csproj.AssemblyReference.cache
