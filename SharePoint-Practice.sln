@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-Library", "02-Library\02
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-User", "03-User\03-User.csproj", "{BF029D5C-50BD-4E23-9E13-D1E84A79D747}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-ListItem-Add-Update-Delete", "04-ListItem-Add-Update-Delete\04-ListItem-Add-Update-Delete.csproj", "{17948AD8-F49F-487F-A9AE-C98DB463D3A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{BF029D5C-50BD-4E23-9E13-D1E84A79D747}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF029D5C-50BD-4E23-9E13-D1E84A79D747}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF029D5C-50BD-4E23-9E13-D1E84A79D747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17948AD8-F49F-487F-A9AE-C98DB463D3A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17948AD8-F49F-487F-A9AE-C98DB463D3A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17948AD8-F49F-487F-A9AE-C98DB463D3A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17948AD8-F49F-487F-A9AE-C98DB463D3A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
