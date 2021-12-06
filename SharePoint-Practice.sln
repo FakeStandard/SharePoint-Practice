@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-User", "03-User\03-User.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-ListItem-Add-Update-Delete", "04-ListItem-Add-Update-Delete\04-ListItem-Add-Update-Delete.csproj", "{17948AD8-F49F-487F-A9AE-C98DB463D3A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-DocumentLibrary-Demo", "05-DocumentLibrary-Demo\05-DocumentLibrary-Demo.csproj", "{7BF4AB09-0771-407E-A163-D3D622090C58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{17948AD8-F49F-487F-A9AE-C98DB463D3A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17948AD8-F49F-487F-A9AE-C98DB463D3A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17948AD8-F49F-487F-A9AE-C98DB463D3A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BF4AB09-0771-407E-A163-D3D622090C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF4AB09-0771-407E-A163-D3D622090C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF4AB09-0771-407E-A163-D3D622090C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF4AB09-0771-407E-A163-D3D622090C58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
